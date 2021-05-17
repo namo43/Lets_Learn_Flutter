@@ -33,6 +33,7 @@ class HomePage extends StatelessWidget {
           centerTitle: true,
           backgroundColor: Colors.red,
         ),
+        drawer: Drawer(),
       ),
     );
   }
